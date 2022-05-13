@@ -1,9 +1,4 @@
-## See `docs/index.md` for our wiki documentation.
-
-# Team 1 Gene Prediction
-
-#### MEMBERS:
-Varsha Bhat, Kaiqin Bian, Erin Connolly, Upaasana Krishnan, Amartya Mandal,  Manasa Upadhyaya, Geetha Priyanka Yerradoddi
+# Gene Prediction
 
 #### TOOLS USED: 
 Prodigal\
